@@ -1,0 +1,21 @@
+{
+  "name": "bbdevportal",
+  "version": "1.0.0",
+  "description": "bookingbug dev portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wandradebb/bookingbug-dev-portal.git"
+  },
+  "keywords": [
+    "bbDevPortal"
+  ],
+  "author": "Welbert Andrade",
+  "license": "MIT",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
